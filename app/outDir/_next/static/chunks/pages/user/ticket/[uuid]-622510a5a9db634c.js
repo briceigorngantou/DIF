@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[165],{2064:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/user/ticket/[uuid]",function(){return t(7751)}])},7751:function(n,u,t){"use strict";t.r(u);var _=t(5893),e=t(5970),i=function(){return(0,_.jsx)(e.Sj,{})};u.default=i}},function(n){n.O(0,[774,888,179],function(){return n(n.s=2064)}),_N_E=n.O()}]);

@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[17],{2718:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/company/[uuid]/qrcode",function(){return t(6445)}])},6445:function(n,u,t){"use strict";t.r(u);var _=t(5893),c=t(5970),r=function(){return(0,_.jsx)(c.tr,{})};u.default=r}},function(n){n.O(0,[774,888,179],function(){return n(n.s=2718)}),_N_E=n.O()}]);

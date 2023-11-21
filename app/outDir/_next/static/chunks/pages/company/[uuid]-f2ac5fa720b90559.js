@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[709],{805:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/company/[uuid]",function(){return t(3299)}])},3299:function(n,u,t){"use strict";t.r(u);var _=t(5893),c=t(5970),i=function(){return(0,_.jsx)(c.P9,{})};u.default=i}},function(n){n.O(0,[774,888,179],function(){return n(n.s=805)}),_N_E=n.O()}]);

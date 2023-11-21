@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  dif-production:
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    image: dif-production
+    ports:
+      - '3800:3800'
